@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Budget Dost SR - Supplier",
+    "slug": "budget-dost-supplier",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "budgetdostsupplier",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.supplier.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.supplier.app"
+    }
+  }
+}
